@@ -38,3 +38,5 @@ Trabalho A3 da aula de Programação de soluções computacionais
 ### Recursos necessários:
 - Ambiente de desenvolvimento integrado (IDE) para programação.
 - Linguagem de programação adequada para o desenvolvimento da aplicação (Java e SQL).
+
+  
