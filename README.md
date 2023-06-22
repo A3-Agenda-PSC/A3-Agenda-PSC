@@ -13,26 +13,37 @@ Trabalho A3 da aula de Programação de soluções computacionais
 #### Bruna Hack
   <div>
   <a href="https://github.com/bruuhack" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
+<a href="https://www.linkedin.com/in/bruna-hack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
   </div>
   
 #### Bruna Martins
   <div>
     <a href="https://github.com/martinsbruu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
+<a href="https://www.linkedin.com/in/bruna-rafaela-martins-9209aa253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
     </div>
 
-#### Maria Balbinot
+#### Maria Eduarda Balbinot
    <div>
     <a href="https://github.com/Eduarda-Balbinot" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-balbinot-7736a8279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
     </div>
 
 #### Meireleen Golfeto
   <div>
     <a href="https://github.com/Meireelen" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
-    </div>
-    
+    <a href="https://www.linkedin.com/in/meireelen-odg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
+  </div>
+
+#### Renata Schramm
+ <div>
+    <a href="https://github.com/RenataSch" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
+ <a href="https://www.linkedin.com/in/renata-schramm-9261b5226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
+  </div>
+
 #### Sara Tascheck
 <div>
   <a href="https://https://github.com/SaraTascheck" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
+  <a href="https://www.linkedin.com/in/sara-tascheck-708aa722a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
     </div>
 
 ### Recursos necessários:
