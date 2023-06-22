@@ -1,6 +1,9 @@
 # A3-Agenda-PSC
 Trabalho A3 da aula de Programação de soluções computacionais
-> Status do projeto: Finalizado ✔️
+ <div>
+<img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=%20CONCLUIDO&color=GREEN&style=for-the-badge_blank"></a>
+   </div>
+
 ## Descrição do projeto
   - Projeto de desenvolvimento para a disciplina Programação de Soluções Computacionais da instituição Unisociesc Blumenau com a função de criar o CRUD de uma Agenda que consegue criar, ler, atualizar e deletar. O projeto, criado por seis alunas executa as funções propastas.
 
