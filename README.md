@@ -47,7 +47,7 @@ Trabalho A3 da aula de Programação de soluções computacionais
   <a href="https://www.linkedin.com/in/sara-tascheck-708aa722a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
     </div>
 
-### Recursos necessários:
+## Recursos necessários:
 - Ambiente de desenvolvimento integrado (IDE) para programação.
 - Linguagem de programação adequada para o desenvolvimento da aplicação (Java e SQL).
 - Material de consulta (Youtube)
