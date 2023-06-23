@@ -5,7 +5,8 @@ Trabalho A3 da aula de Programação de soluções computacionais
    </div>
 
 ## Descrição do projeto
-  - Projeto de desenvolvimento para a disciplina Programação de Soluções Computacionais da instituição Unisociesc Blumenau com a função de criar o CRUD de uma Agenda que consegue criar, ler, atualizar e deletar. O projeto, criado por seis alunas executa as funções propastas.
+  - Projeto de desenvolvimento para a disciplina Programação de Soluções Computacionais da instituição Unisociesc Blumenau com a função de criar o CRUD de uma Agenda que consegue criar, ler, atualizar e deletar. Seu desenvolvimento foi feito durante chamadas de meet entre as seis integrantes da equipe. Durante as chamadas as integrantes acessaram a plataforma digital Youtube como fonte de pesquisa para a execução e o ChatGPT como ajuda na solução e identificação de erros no código. O projeto foi concluído no período de quatro semanas e as integrantes ficaram satisfeitas com seu resultado.
+    
 
 > Técnologias utilizadas: Java e SQL.
 
@@ -49,5 +50,7 @@ Trabalho A3 da aula de Programação de soluções computacionais
 ### Recursos necessários:
 - Ambiente de desenvolvimento integrado (IDE) para programação.
 - Linguagem de programação adequada para o desenvolvimento da aplicação (Java e SQL).
+- Material de consulta (Youtube)
+- Plataforma complementar (ChatGPT)
 
   
